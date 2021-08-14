@@ -1,7 +1,8 @@
 ## Olá, sou a Paloma Moura
 
-- 🔭 Experiência em Geoprocessamento, Sensoriamento Remoto e Análises Ambientais, em transição para a área de Tecnologia
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 28 anos
+- Experiência em Geoprocessamento, Sensoriamento Remoto e Análises Ambientais, em transição para a área de Tecnologia
+- Estudando Análise e Desenvolvimento de Sistemas
 
  <div>
   <a href="https://github.com/pahmoura">
