@@ -1,7 +1,7 @@
 ## Hello World
 
 - 28 anos
-- Experiência em Geoprocessamento, Sensoriamento Remoto e Análises Ambientais, em transição para a área de Tecnologia
+- Experiência em Geoprocessamento, Sensoriamento Remoto e Análises Ambientais
 - Estudando Análise e Desenvolvimento de Sistemas
 
  <div>
